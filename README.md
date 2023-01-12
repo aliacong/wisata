@@ -10,6 +10,7 @@ Created by Chaidir ali
 
 ![Uploading Whats-App-Image-2022-12-24-at-00-26-00.jpg…]()
 
+ini link ss nya pak🙏
 (https://ibb.co/fFVmFhK)
 
 This project is a starting point for a Flutter application.
