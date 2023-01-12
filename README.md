@@ -7,6 +7,9 @@ Created by Chaidir ali
 - Kelas : IK-2B
 - Angkatan : 2021
 
+
+![Uploading Whats-App-Image-2022-12-24-at-00-26-00.jpg…]()
+
 (https://ibb.co/fFVmFhK)
 
 This project is a starting point for a Flutter application.
